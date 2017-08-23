@@ -63,4 +63,9 @@ __¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud tota
 
 __¿Cuál fue el ectecto al disminuir al mínimo el costo de extender un gap?__
 
+Al disminuir el costo provoco una disminución en la longitud quedando 1907 pb.
+
+#Parte 3
+
+
 
