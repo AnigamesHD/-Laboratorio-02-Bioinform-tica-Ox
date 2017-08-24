@@ -48,7 +48,7 @@ __¿Cuál es la longitud total del alineamiento?__
 
 __¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?__
 
-Pan troglodytes (chimpancé)
+Pan troglodytes (chimpancé).
 
 __¿Cuál es el más lejano?__
 
