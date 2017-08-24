@@ -8,7 +8,7 @@
 
 __Responde:__
 
-__¿Qué función cumple el gen?__
+__¿Qué función cumple el gen SRY?__
 
 El gen SRY codifica para un factor  de transcripción, proteína la cual es el factor determinante de testiculos (TDF), en el que inicia la determinación del sexo masculino.
 
