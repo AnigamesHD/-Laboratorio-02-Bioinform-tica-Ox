@@ -4,31 +4,30 @@
 
 ## Profesor(a): Katterinne Méndez Carrasco
 
-##Parte 1: Colectar genes homólogos
+## Parte 1: Colectar genes homólogos
 
 __Responde__
 
 __¿Qué función cumple el gen?__
 
-El gen SRY codifica para un factor  de transcripción, proteína la cual es el factor determinante de testiculo (TDF), en el que inicia la determinación del sexo masculino.
+El gen SRY codifica para un factor  de transcripción, proteína la cual es el factor determinante de testiculos (TDF), en el que inicia la determinación del sexo masculino.
 
 __¿Cuántos genes ortólogos están anotados en esa base de datos?__
 
-Al revisar la homología en la información referente homo sapiens, se encuentran 26 organismos ortologos del gen SRY
+Al revisar la homología en la información referente a Homo sapiens, se encuentran 26 organismos que tienen ortólogos del gen SRY.
 
 ##Parte 2: Alineamiento múltiple
 
 __¿Qué es el EMBL-EBI?__
 
-El EMBL-EBI es el Instituto Europeo de Bioinformática (EBI), quienes forman parte del Laboratorio Europeo de Biologia Molecular (EML), se encargan de manejar la información  biologica publica del mundo para hacerla disponible sin costo alguno para la comunidad cientifica a traves de una serie de servicios y herramientas, realizando busqueda basica y proveyendo informacion profesional en Bioinformatica, manteniendo informacion a la fecha de bases de datos moleculares.
+El EMBL-EBI es el Instituto Europeo de Bioinformática (EBI), quienes forman parte del Laboratorio Europeo de Biologia Molecular (EML), se encargan de manejar la información  biológica pública del mundo para hacerlo necesario sin costo alguno para la comunidad científica a través de una serie de servicios y herramientas, realizando la búsqueda básica y probando la formación profesional en Bioinformática, manteniendo la información a la fecha de bases de datos Moleculares
 
 __¿Cuántos  tipos de alinenamiento múltiple se pueden realizar en EMBL-EBI?__
-
-Pueden realizarse alineamientos  globales, locales, tipo HMM (modelo Markov Oculto), arboles jjj, alineamientos por metodo de consenso e iterativos
+Se pueden realizar alineamientos globales, locales, tipo HMM (Modelo Markov Oculto), árboles guía, alineamientos por método de consenso e iterativos.
 
 __¿Cuál es el programa que ellos ofrecen que funciona mejor para secuencias de proteínas?__
 
-El programa MUSCLE (Multiple sequence Comparison by Log-Expectation) se especializa en proteínas
+El programa MÚSCULO (MUltiple Sequence Comparison by Log-Expectation) se especializa en proteinas.
 
 __¿Qué otros tipo de herramientas ofrece EMBL-EBI?__
 
