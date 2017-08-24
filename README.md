@@ -16,7 +16,7 @@ __¿Cuántos genes ortólogos están anotados en esa base de datos?__
 
 Al revisar la homología en la información referente a Homo sapiens, se encuentran 26 organismos que tienen ortólogos del gen SRY.
 
-##Parte 2: Alineamiento múltiple
+## Parte 2: Alineamiento múltiple
 
 __¿Qué es el EMBL-EBI?__
 
@@ -60,11 +60,11 @@ Equus przewalskii (caballo de Przewalskii).
 
 # Modificando costos
 
-__¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?
+__¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?__
 
 Si el costo de abrir un gap aumenta, entonces provocará que los gaps sean menos frecuentes al incrementar el costo, el programa desfavorecerá la aparición de gaps si el valor de costo es alto para obtener una matriz de costo razonable. En cambio, si el costo de abrir un gap se disminuye, aparecerán más gaps en el alineamiento, observando entonces más divergencias (indels) entre las especies.
 
-__¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?
+__¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?__
 
 Si se incrementa el costo de extender un gap, provocará que los gaps sean más cortos, debido a que el costo será mayor, extendiendo los gaps cada vez menos a medida que se incrementa el costo. En cambio, si se disminuye el costo de extender un gap, ocurrirá lo contrario al ser más "barato", provocando la aparición de gaps más largos al colocar un costo menor.
 
@@ -76,7 +76,7 @@ __¿Cuál fue el efecto al disminuir al mínimo el costo de extender un gap?__
 
 Al disminuir el costo provoco una disminución en la longitud quedando 1907 pb.
 
-#Parte 3: Diseño de partidores
+## Parte 3: Diseño de partidores
 
 __Secuencias con nombres modificados__
 
