@@ -1,4 +1,4 @@
-# -Laboratorio-02-Bioinformatica-Ox
+# Laboratorio 02 Bioinformatica
 
 ## Nombre: Byron Guzmán Marín
 
@@ -6,7 +6,7 @@
 
 ## Parte 1: Colectar genes homólogos
 
-__Responde__
+__Responde:__
 
 __¿Qué función cumple el gen?__
 
@@ -48,7 +48,7 @@ __¿Cuál es la longitud total del alineamiento?__
 
 __¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?__
 
-Pan troglodyte (chimpancé)
+Pan troglodytes (chimpancé)
 
 __¿Cuál es el más lejano?__
 
