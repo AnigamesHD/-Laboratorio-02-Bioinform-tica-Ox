@@ -1,4 +1,4 @@
-# Laboratorio 02 Bioinformatica
+# Laboratorio 02 Bioinformática
 
 ## Nombre: Byron Guzmán Marín
 
