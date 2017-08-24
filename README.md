@@ -58,7 +58,7 @@ __¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?__
 
 Equus przewalskii (caballo de Przewalskii).
 
-# Modificando costos
+## Modificando costos
 
 __¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?__
 
